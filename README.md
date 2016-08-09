@@ -2,10 +2,11 @@
 
 <b> also using AWS Code Deploy to automate app deployment </b>
 
-* Linux OS
-* ngingx middleware
-* Ghost Blog
-* coded in node.JS
+* Linux OS "Ubuntu 14.04.4 LTS"
+* node.js programming language
+* Apache webserver
+* Ghost blog
+* used Bitnami HVM free tier image from AWS Marketplace
 
 copyright 2016 John.A.Sexton@gmail.com
 
