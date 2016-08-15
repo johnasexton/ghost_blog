@@ -1,6 +1,6 @@
 # Ghost Blog Sample application for AWS EC2 Instance
 
-<b> also using AWS Code Deploy to automate app deployment </b>
+<b> using git pull to sync host with GitHub </b>
 
 * Linux OS "Ubuntu 14.04.4 LTS"
 * node.js programming language
